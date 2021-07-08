@@ -1,5 +1,6 @@
-# TrickOrTreat
-Jednostavna arkadna igrica sa tematikom "noc vjestica". Cilj igrice je da sismis skupi sto vise bomboni a da pri tome ne udari u bundevu.
+# Trick Or Treat
+A simple arcade game with the theme "Halloween". The goal of the game is to collect as many candies as possible without hitting the pumpkin.
 
-## Izgled igrice
- <img src="Screenshot_1.png" width="1000" height="400" />
+## App demo
+ ![ Alt text](animation2.gif) 
+
